@@ -14,7 +14,9 @@
 
 // CODE HERE...
 
+function callBinding() {
 
+}
 
 // *************
 // * PROBLEM 2 *
@@ -29,7 +31,9 @@
 
 // CODE HERE...
 
+function applyBinding() {
 
+}
 
 // *************
 // * PROBLEM 3 *
@@ -49,7 +53,9 @@ var foo;
 
 // CODE HERE...
 
+function promiseMe() {
 
+}
 
 // *************
 // * PROBLEM 4 *
@@ -64,3 +70,7 @@ var foo;
 // and then resolve the array as you complete your promise.
 
 // CODE HERE...
+
+function emailList() {
+    
+}
